@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "305608488405",
+    "project_id": "looplab-746e3",
+    "storage_bucket": "looplab-746e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305608488405:android:5ddd3b4f2eb9b2cf0eb95c",
+        "android_client_info": {
+          "package_name": "com.example.loop_lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB20CDbtueosoSSmA4NxouvpvdrbFiyknA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
